@@ -1,4 +1,4 @@
-# Hey there👋, Welcome to my Github Profile
+# Hey there👋, my name es Elvis Sánchez Rogel welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
@@ -11,8 +11,7 @@
 
 </br>
 
-- 🔧 I am currently working in Machine Learning algorithms..
-
+- ☣️ Predict infarct diseases by automatic machine.
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’M Currently Learning ... Java and C ++
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
