@@ -13,7 +13,7 @@
 
 - ☣️ Predict infarct diseases by automatic machine.
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’M Currently Learning ... Java and C ++
+- 📖 I’m Currently Learning ... Java and C ++
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...elvissanchez102@gmail.com.
 
