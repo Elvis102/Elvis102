@@ -300,7 +300,7 @@ Featured Repositories.
 ## &nbsp; &nbsp; &nbsp;🔥 My Motto
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Elvis102);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 
 
@@ -320,7 +320,7 @@ Featured Repositories.
   
   </br>
 
-  <a href = "https://github.com/Elvis102/kaustav202/blob/main/fun.md"> <h3>🔸🎮 Lots of other cool stuffs, trivia and info about me </h3> </a>
+  <a href = "https://github.com/Elvis102/Elvis102/blob/main/fun.md"> <h3>🔸🎮 Lots of other cool stuffs, trivia and info about me </h3> </a>
   
   </br>
   
@@ -328,7 +328,7 @@ Featured Repositories.
   
   </br>
   
-  <a href = "https://kaustav-port.web.app/"><h3>🔸🎴 My Portfolio Website</h3></a>
+  <a href = "https://Elvis102-port.web.app/"><h3>🔸🎴 My Portfolio Website</h3></a>
   
   </br>
   </br>
